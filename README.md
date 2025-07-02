@@ -10,5 +10,5 @@ This project addresses the high failure rates in Portuguese secondary education 
 
 -Ensemble Learning (Random Forest, Gradient Boosting)
 
-By analyzing student demographic, social, academic data, etc.. these models can provides valuable insights to identify at-risk students and support early interventions.
+By analyzing student demographic, social, academic data, etc.. these models can provide valuable insights to identify at-risk students and support early interventions.
 
